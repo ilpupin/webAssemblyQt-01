@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/test01">D:/users/f60492a/Documents/QT Projects/build-test01-WebAssembly_Qt_6_5_2_single_threaded-MinSizeRel/test01</file>
+
+  </qresource>
+</RCC>
